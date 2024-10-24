@@ -1,0 +1,16 @@
+.list-item {
+  display: flex;
+  height: 60px;
+  align-items: center;
+  padding-left: 44px;
+}
+
+.list-item__title {
+  line-height: 25px;
+  text-align: center;
+  margin-left: 26px;
+}
+
+.list-item_active {
+  border-left: 6px solid #1814f3;
+}

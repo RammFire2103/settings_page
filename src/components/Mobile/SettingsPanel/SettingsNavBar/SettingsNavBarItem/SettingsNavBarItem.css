@@ -1,0 +1,12 @@
+@media screen and (width <= 768px) {
+  .settings-panel__nav-bar_li {
+    margin-right: 15px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 8px;
+  }
+
+  .settings-panel_nav-bar_li_active {
+    border-bottom: 3px solid #1814f3;
+  }
+}

@@ -1,0 +1,10 @@
+.left-panel {
+  background-color: pink;
+  min-height: 100vh;
+  color: aliceblue;
+  padding: 33px 22px 31px 0px;
+  width: 249px;
+  background-color: #ffffff;
+  border-right: 1px solid #e6eff5;
+  box-sizing: border-box;
+}

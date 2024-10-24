@@ -1,0 +1,10 @@
+.settings-panel__nav-bar_li {
+  margin-right: 42px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 8px;
+}
+
+.settings-panel_nav-bar_li_active {
+  border-bottom: 3px solid #1814f3;
+}

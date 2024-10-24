@@ -1,0 +1,19 @@
+.settings-panel-avatar {
+  width: 130px;
+  height: 130px;
+  position: relative;
+  margin-right: 53px;
+}
+
+.pencil {
+  position: absolute;
+  background-color: #1814f3;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  bottom: 16px;
+  right: 0;
+}

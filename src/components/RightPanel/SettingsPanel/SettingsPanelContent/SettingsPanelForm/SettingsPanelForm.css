@@ -1,0 +1,25 @@
+.settings-panel-form {
+  max-width: 100%;
+  flex-grow: 1;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.settings-panel-form__button {
+  margin-right: 30px;
+  width: 22%;
+  height: 50px;
+  background: #1814f3;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  font-size: 18px;
+}
+
+@media screen and (width <= 1142px) {
+  .settings-panel-form__button {
+    width: 100%;
+  }
+}
