@@ -1,4 +1,4 @@
-@media screen and (width <= 768px) {
+@media screen and (width <= 930px) {
   .settings-panel__nav-bar_li {
     margin-right: 15px;
     padding-left: 6px;

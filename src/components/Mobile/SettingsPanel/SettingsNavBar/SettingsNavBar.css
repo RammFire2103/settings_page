@@ -1,4 +1,4 @@
-@media screen and (width <= 768px) {
+@media screen and (width <= 930px) {
   .settings-panel__nav-bar_ul {
     justify-content: space-between;
     font-size: 12px;
